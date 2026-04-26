@@ -1,0 +1,9 @@
+/* custom styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1, h2, h3 {
+  color: #00698f;
+}
